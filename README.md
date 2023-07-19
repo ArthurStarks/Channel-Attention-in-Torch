@@ -1,5 +1,5 @@
-# Channel Attention / Squeeze and Excitation
-Implementation of Channel Attention in PyTorch.
+# Channel Attention in Tprch.
+Implementation of Channel Attention in PyTorch  / Squeeze and Excitation.
 
 # Introduction
 Attention is simply the assumption that a network should learn to boost some information that is helpful for a given example, while at the same time decreasing the importance of that which is not.
