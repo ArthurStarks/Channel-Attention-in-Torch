@@ -1,4 +1,4 @@
-# Channel Attention in Tprch.
+# Channel Attention in Torch.
 Implementation of Channel Attention in PyTorch  / Squeeze and Excitation.
 
 # Introduction
